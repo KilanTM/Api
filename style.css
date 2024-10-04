@@ -15,8 +15,8 @@
 }
 
 .chuck-norris-approved {
-    width: 100%;
     height: 20vh;
+    aspect-ratio: 1;
 }
 
 .chuck-approved-cont {
@@ -73,3 +73,4 @@
     font-size: 16pt;
     padding: 0 3vw;
 }
+
